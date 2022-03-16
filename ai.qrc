@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>squeezenet_v1.1.bin</file>
+        <file>squeezenet_v1.1.param</file>
+        <file>timg2.jpg</file>
+    </qresource>
+</RCC>
